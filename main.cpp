@@ -1,3 +1,9 @@
+//Arjun Pai
+//Linked List Part II
+// Studentlist but using linked lists and nodes
+// Shoutout to Jazveer Kaler and Tejas Pandit for help debugging
+
+
 #include<iostream>
 #include<vector>
 #include <iomanip>
